@@ -1,0 +1,23 @@
+Look at the first 20 lines (5 sequences = 20 lines)
+
+Line 1 (@):
+@SRR000001.1 EM7LVYS02FOYNU/2
+
+Line 2 (Sequence):
+ATTCTCCTAGCCTACATCCGTACGAGTTAGCGTGGGATTACGAGGTGCACACCATTTCATTCCGTACGGGTAAATTTTTGTATTTTTAGCAGACGGCAGGGTTTCACCATGGTTGACCAACGTACTAATCTTGAACTCCTGACCTCAAGTGATTTGCCTGCCTTCAGCCTCCCAAAGTGACTGGGTATTACAGATGTGAGCGAGTTTGTGCCCAAGCCTTATAAGTAAATTTATAAATTTACATAATTTAAATGACTTATGCTTAG
+
+Line 3 (+):
++
+
+Line 4 (Quality):
+85)9=9/3-8?68<7=8<3657747==49==+;FB2;A;5:'*>69<:74)9.;C?+;<B<B;(<';FA/;C>*GC8/%9<=GC8.#=2:5:16D==<EA2EA.;5=44<;2C=5;@73&<<2;5;6+9<?776+:24'26:7,<9A;=:;0C>*6?7<<C=D=<52?:9CA2CA23<2<;3CA12:A<9414<7<<6;99<2/=9#<;9B@27.;=6>:77>:1<A>+CA138?<)C@2166:A<B?->:%<<9<;33<;6?9;<
+
+----------------------
+
+Analysis
+
+Does line 1 start with @? ✓
+Is line 2 a nucleotide sequence (A/T/G/C)? ✓
+Is line 3 only a + symbol? ✓
+Does line 4 contain non-alphabetic quality characters? ✓
+Are lines 2 and 4 the same length? (count!) ✓

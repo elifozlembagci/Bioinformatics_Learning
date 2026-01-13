@@ -1,0 +1,28 @@
+FASTQ / FASTA COMMAND LINE CHEAT SHEET
+
+# View first 10 lines
+head -n 10 file.fastq
+ 
+# View last 10 lines 
+tail -n 10 file.fastq
+
+# Count total lines
+wc -l file.fastq
+
+# Search for a pattern
+grep "ACTG" file.fastq
+
+# Count occurrences
+grep "ACTG" file.fastq | wc -l
+
+# View first sequence only (FASTQ)
+head -n 4 file.fastq
+
+# Compress file
+gzip file.fastq   # creates file.fastq.gz
+
+# View compressed file
+zcat file.fastq.gz | head
+
+# Check file size
+ls -lh file.fastq

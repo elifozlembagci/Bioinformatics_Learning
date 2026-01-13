@@ -1,0 +1,17 @@
+https://www.ncbi.nlm.nih.gov/nuccore/NC_000913.3
+
+# What is the first line? (Header: >NC_000913.3 ...)
+>NC_000913.3 Escherichia coli str. K-12 substr. MG1655, complete genome
+
+# What is on the second line? (e.g. AGCTTTTCATTCT...)
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+
+# Does it contain only A, T, G, and C?
+Yes ✓
+
+# How many lines are there? (Check in the bottom-right corner of VS Code)
+66,311 lines
+
+# What is the file size? (Right-click → Properties)
+4.7 MB
+
